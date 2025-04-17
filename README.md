@@ -37,7 +37,6 @@ flutter run
 | [`geolocator`](https://pub.dev/packages/geolocator) | To fetch device location for location-based weather |
 | [`google_fonts`](https://pub.dev/packages/google_fonts) | To use custom fonts and improve UI design |
 | [`intl`](https://pub.dev/packages/intl) | For internationalization and date formatting |
-| [`lottie`](https://pub.dev/packages/lottie) | To display JSON-based animations |
 ---
 
 ## 🌐 API Used
